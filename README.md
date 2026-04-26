@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Swathikala
 
-<!--
-**Swathikala2004/Swathikala2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React.js | Python Fullstack  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 2025 Engineering Graduate  
+- 💡 Passionate about building web applications  
+- ⚡ Focused on React & modern frontend development  
+- 🔍 Currently looking for job opportunities  
+
+---
+
+## 🛠️ Skills
+- React.js  
+- JavaScript  
+- HTML, CSS  
+- Python  
+- MySQL  
+
+---
+
+## 📌 Projects
+- 🔗 VectorShift  
+  https://github.com/Swathikala2004/VectorShift  
+
+- 🔗 HCP CRM AI  
+  https://github.com/Swathikala2004/hcp-crm-ai  
+
+- 🔗 Mini Hub Project  
+  https://github.com/Swathikala2004/MiniHubProject  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/swathikala
