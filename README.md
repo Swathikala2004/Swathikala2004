@@ -27,7 +27,13 @@
   https://github.com/Swathikala2004/VectorShift  
 
 - 🔗 HCP CRM AI  
-  https://github.com/Swathikala2004/hcp-crm-ai  
+  https://github.com/Swathikala2004/hcp-crm-ai
+  
+- 🔗 Device Booking System  
+  https://github.com/Swathikala2004/device-booking-system
+  
+- 🔗 Ecommerce React App  
+  https://github.com/Swathikala2004/ecommerce-react  
 
 - 🔗 Mini Hub Project  
   https://github.com/Swathikala2004/MiniHubProject  
